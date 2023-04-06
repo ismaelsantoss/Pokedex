@@ -112,6 +112,12 @@ body {
     justify-content: center;
 }
 
+#imagem {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    width: 10rem;
+}
 
 
 @media (max-width: 1486px) {
